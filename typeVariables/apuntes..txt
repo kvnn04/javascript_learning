@@ -1,0 +1,29 @@
+tipos de variables en js:
+
+var:
+
+    var (obsoleto en gran parte de los casos):
+
+    Se usaba en versiones antiguas de JavaScript.
+
+    Tiene un alcance de función o global.
+    
+    Permite reasignación y redeclaración.
+
+let:
+
+    Introducido en ES6 (2015).
+
+    Tiene un alcance de bloque (delimitado por {}).
+
+    Permite reasignación pero no redeclaración en el mismo alcance.
+
+const:
+
+    Introducido en ES6.
+
+    Tiene un alcance de bloque.
+
+    No permite reasignación ni redeclaración.
+
+    Se utiliza para valores constantes o que no cambiarán.
