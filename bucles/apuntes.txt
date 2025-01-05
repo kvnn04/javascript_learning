@@ -1,0 +1,14 @@
+JavaScript supports different kinds of loops:
+
+for - loops through a block of code a number of times
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object
+while - loops through a block of code while a specified condition is true
+do/while - also loops through a block of code while a specified condition is true
+
+
+Comparación while vs. do...while
+
+while: Evalúa la condición antes de ejecutar el bloque. Si la condición es false al inicio, el bloque nunca se ejecuta.
+
+do...while: Siempre ejecuta el bloque al menos una vez, incluso si la condición es false desde el principio

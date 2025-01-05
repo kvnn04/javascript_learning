@@ -1,0 +1,5 @@
+The JavaScript for in statement loops through the properties of an Object:
+
+for (key in object) {
+  // code block to be executed
+}
